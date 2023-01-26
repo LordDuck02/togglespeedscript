@@ -18,4 +18,4 @@ speeding = false
 end
 end
 end)
-print('Script works')
+warn('Script works')
