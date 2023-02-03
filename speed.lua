@@ -9,7 +9,7 @@ function notfity(title, text, duration)
 	game:GetService("StarterGui"):SetCore("SendNotification", {
 		Title = title,
 		Text = text,
-		Icon = "rbxassetid://57254792",
+		Icon = "rbxassetid://11334680165",
 		Duration = duration
 	})
 end
